@@ -2,7 +2,7 @@
 
 I'm Andrew. I'm a full-stack web developer based in Minsk, Belarus. I have strong skills in web and mobile applications development 🤘. I prefer using all the strengths of JavaScript
 
-🔭 I’m currently working at [🎯 Scorum](https://github.com/scorum).
+🔭 I’m currently working at [🎯 Aviatrx](https://aviatrix.bet/).
 
 📫 How to reach me:
 
